@@ -1,0 +1,148 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Assignement 2\n"
+      ],
+      "metadata": {
+        "id": "pf5SXa1XeBkI"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Please do not change, delete or edit any cells. Write your code in between designated lines.\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "txLDhiheeJtw"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## Question 1 (10 points)"
+      ],
+      "metadata": {
+        "id": "pVXIH2TLfXYF"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Can your print the letters of Agriculture by using for loops. Your output will look like this:\n",
+        "# A\n",
+        "# g\n",
+        "# r\n",
+        "# i\n",
+        "# c\n",
+        "# u\n",
+        "# l\n",
+        "# t\n",
+        "# u\n",
+        "# r\n",
+        "# e\n",
+        "\n",
+        "## Your code here - down ##\n",
+        "\n",
+        "## Your code here - up ##\n"
+      ],
+      "metadata": {
+        "id": "VS-FTxUHfclH"
+      },
+      "execution_count": 3,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## Question 2 (40 Points)"
+      ],
+      "metadata": {
+        "id": "rTT_VIPMefpk"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Find the sum of numbers from 1 to 50(including) by using for loops.\n",
+        "\n",
+        "## Your code here - down ##\n",
+        "\n",
+        "## Your code here - up ##"
+      ],
+      "metadata": {
+        "id": "dQp85EhveEWB"
+      },
+      "execution_count": 4,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## Question 3 (50 points)"
+      ],
+      "metadata": {
+        "id": "gijHHMnjgZPy"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Now let's find sum of even and odd numbers from 1 to 50 (including). Are the results same?\n",
+        "\n",
+        "# Sum of even  numbers\n",
+        "\n",
+        "## Your code here - down ##\n",
+        "\n",
+        "## Your code here - up ##"
+      ],
+      "metadata": {
+        "id": "IXBo2RM2gYPR"
+      },
+      "execution_count": 5,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Sum of odd numbers\n",
+        "\n",
+        "## Your code here - down ##\n",
+        "\n",
+        "## Your code here - up ##"
+      ],
+      "metadata": {
+        "id": "xQh-bx6ohCe-"
+      },
+      "execution_count": 6,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# In this cell explain the difference."
+      ],
+      "metadata": {
+        "id": "OeIXVOYThLbA"
+      },
+      "execution_count": 7,
+      "outputs": []
+    }
+  ]
+}
